@@ -17,6 +17,7 @@ Inserting and replacing text.
 `A` enter insert mode at the end of line  
 `o` enter insert mode on new line below  
 `O` enter insert mode on new line above  
+`S` delete line and enter insert mode
 
 `:help Insert-mode`
 
