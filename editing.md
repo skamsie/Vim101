@@ -13,6 +13,7 @@
 
 `d`  delete (followed by movement)  
 `dd` delete line  
+`u`  undo  
 
 #### d combinations
 
