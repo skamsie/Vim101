@@ -1,4 +1,4 @@
-##Movement (normal mode)
+## Movement (normal mode)
 
 <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> ← ↓ ↑ →
 
