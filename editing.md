@@ -29,7 +29,7 @@
 
 #### c combinations
 
-Very similar to the `d` combinations, but also enters normal mode.  
+Very similar to the `d` combinations, but also enters insert mode.  
 Same combinations as above apply. Eg:    
 
 `C`   change until the end of line (delete and enter insert mode)  
