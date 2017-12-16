@@ -14,6 +14,7 @@
 `d`  delete (followed by movement)  
 `dd` delete line  
 `u`  undo  
+`Ctrl-r` redo  
 
 #### d combinations
 
