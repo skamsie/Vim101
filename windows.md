@@ -18,7 +18,7 @@ unchanged until you write the buffer to the file.
 `:ls!` list **all** buffers (even unlisted ones, like help files)  
 `:b3` go to buffer 3  
 `:bd` delete current buffer  
-`:bd3` delete buffer 3
+`:bd3` delete buffer 3  
 `:bn` go to next buffer 
 `:bp` go to previous buffer  
 
