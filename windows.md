@@ -19,7 +19,7 @@ unchanged until you write the buffer to the file.
 `:b3` go to buffer 3  
 `:bd` delete current buffer  
 `:bd3` delete buffer 3  
-`:bn` go to next buffer 
+`:bn` go to next buffer  
 `:bp` go to previous buffer  
 
 #### tabs
