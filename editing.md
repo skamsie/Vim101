@@ -26,7 +26,8 @@
 `diw` delete (inner) word  
 `daw` delete around word (including white spaces)  
 `dw`  delete from cursor until the end of word  
-`D`   delete from cursor until the end of line
+`D`   delete from cursor until the end of line  
+`d0`  delete from cursor until the beginning of line
 
 #### c combinations
 
